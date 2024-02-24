@@ -2,7 +2,7 @@
 - 👀 Atualmente trabalho no ramo das traduções técnicas e  estou totalmente empenhado na transição de carreira para desenvolvedor de software.
 - 🌱 Estou praticando as tecnologias JavaScript, CSS, HTML, Node.JS e Python. Aos poucos adicionando mais tecnologias!
 - 💞️ Desejo colaborar em projetos reais de back-end, especialmente em estágios e programas de trainee.
-- 📫 Se desejar entrar em contato comigo, clique no meu LinkedIn ao lado e envie uma mensagem!
+- 📫 Se desejar entrar em contato comigo, clique no meu e-mail ou LinkedIn abaixo e envie uma mensagem!
 - ⚡ Curiosidade sobre mim: apesar do meu nome francês, não nasci na França, sou brasileiro e falo inglês fluente (por conta do trabalho de tradutor)! 😂
 
 ## FERRAMENTAS E TECNOLOGIAS:
