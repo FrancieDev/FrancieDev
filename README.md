@@ -2,7 +2,7 @@
 - 👀 Sou engenheiro de software em início de carreira, focado em desenvolvimento back-end e segurança cibernética.
 - 🌱 Tenho conhecimentos nas tecnologias JavaScript (CSS/HTML), Java e Python.
 - 💞️ Meu objetivo é trabalhar em projetos reais de segurança cibernética onde meus conhecimentos e habilidades possam ser extraídos ao máximo.
-- 📫 Se desejar entrar em contato comigo, clique no meu e-mail ou LinkedIn abaixo e envie uma mensagem!
+- 📫 Se desejar entrar em contato comigo, clique no LinkedIn abaixo e envie uma mensagem!
 - ⚡ Curiosidade sobre mim: apesar do meu nome francês, não nasci na França, sou brasileiro e falo inglês fluente (por conta do trabalho de tradutor)! 😁
 
 ## FERRAMENTAS E TECNOLOGIAS:
@@ -11,7 +11,6 @@
 
 ## CONTATOS:
 
-<a href = "mailto:francielima.pro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/franciesantos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>      
 
