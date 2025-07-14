@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Francie e meu nickname é @FrancieDev
-- 👀 Sou engenheiro de software em início de carreira, focado em desenvolvimento back-end.
-- 🌱 Tenho conhecimentos nas tecnologias JavaScript (CSS/HTML), Node.JS e Python. Aos poucos adicionando mais tecnologias!
-- 💞️ Meu objetivo é trabalhar em projetos reais de back-end onde meus conhecimentos e habilidades possam ser extraídos ao máximo.
+- 👀 Sou engenheiro de software em início de carreira, focado em desenvolvimento back-end e segurança cibernética.
+- 🌱 Tenho conhecimentos nas tecnologias JavaScript (CSS/HTML), Java e Python.
+- 💞️ Meu objetivo é trabalhar em projetos reais de segurança cibernética onde meus conhecimentos e habilidades possam ser extraídos ao máximo.
 - 📫 Se desejar entrar em contato comigo, clique no meu e-mail ou LinkedIn abaixo e envie uma mensagem!
 - ⚡ Curiosidade sobre mim: apesar do meu nome francês, não nasci na França, sou brasileiro e falo inglês fluente (por conta do trabalho de tradutor)! 😁
 
