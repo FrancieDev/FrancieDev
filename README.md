@@ -1,9 +1,9 @@
 - 👋 Olá, me chamo Francie e meu nickname é @FrancieDev
-- 👀 Sou engenheiro de software em início de carreira, focado em desenvolvimento back-end e segurança cibernética.
-- 🌱 Tenho conhecimentos nas tecnologias JavaScript (CSS/HTML), Java e Python.
-- 💞️ Meu objetivo é trabalhar em projetos reais de segurança cibernética onde meus conhecimentos e habilidades possam ser extraídos ao máximo.
+- 👀 Sou engenheiro de software focado em segurança cibernética e desenvolvimento de aplicações web/mobile full-stack.
+- 🌱 Conhecimentos e Hard Skills: Kali Linux, Nmap, OWASP ZAP, Burp Suite, JavaScript (Node.js, Express.js), Java, Python, Middlewares, PostgreSQL, Knex.js, bcrypt, HTTP & REST, Testes com Postman/Insomnia, Git, AWS, Docker, Kubernetes, CI/CD, Linux. 
+- 💞️ Meu objetivo é evoluir diariamente como engenheiro em projetos reais de segurança cibernética e desenvolvimento de aplicações onde meus conhecimentos e habilidades possam ser extraídos ao máximo.
 - 📫 Se desejar entrar em contato comigo, clique no LinkedIn abaixo e envie uma mensagem!
-- ⚡ Curiosidade sobre mim: apesar do meu nome francês, não nasci na França, sou brasileiro e falo inglês fluente (por conta do trabalho de tradutor)! 😁
+- ⚡ Curiosidade sobre mim: apesar do meu nome francês, não nasci na França, sou brasileiro e falo inglês fluente! 😁
 
 ## FERRAMENTAS E TECNOLOGIAS:
 
